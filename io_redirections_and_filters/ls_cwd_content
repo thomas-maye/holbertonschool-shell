@@ -1,0 +1,17 @@
+total 104
+drwxr-xr-x  16 thomas  staff  512 11 jui 18:38 .
+drwxr-xr-x   7 thomas  staff  224 11 jui 15:25 ..
+-rwxr--r--   1 thomas  staff   32 11 jui 15:05 0-hello_world
+-rwxr--r--   1 thomas  staff   28 11 jui 15:15 1-confused_smiley
+-rwxr--r--   1 thomas  staff   28 11 jui 15:19 2-hellofile
+-rwxr--r--   1 thomas  staff   39 11 jui 15:31 3-twofiles
+-rwxr--r--   1 thomas  staff   35 11 jui 15:36 4-lastlines
+-rwxr--r--   1 thomas  staff   35 11 jui 15:40 5-firstlines
+-rwxr--r--   1 thomas  staff   40 11 jui 15:54 6-third_line
+-rwxr--r--   1 thomas  staff   80 11 jui 18:29 7-file
+-rwxr--r--   1 thomas  staff   36 11 jui 18:38 8-cwd_state
+-rw-r--r--   1 thomas  staff   56 11 jui 14:59 README.md
+-rw-r--r--   1 thomas  staff   12 11 jui 18:29 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 thomas  staff  801 11 jui 15:48 iacta
+-rw-r--r--   1 thomas  staff    0 11 jui 18:38 ls_cwd_content
+-rw-r--r--   1 thomas  staff   13 11 jui 15:02 text
